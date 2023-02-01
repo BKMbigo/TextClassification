@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Classification</string>
+    <string name="action_settings">Settings</string>
+    <string name="placeholder_enter_text">Enter a movie review…</string>
+    <string name="action_predict">Predict</string>
+    <string name="label_confidence">Confidence:</string>
+    <string name="value_positive_confidence">Positive: %.2f</string>
+    <string name="value_negative_confidence">Negative: %.2f</string>
+</resources>
