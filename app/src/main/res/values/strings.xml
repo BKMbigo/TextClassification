@@ -4,6 +4,12 @@
     <string name="placeholder_enter_text">Enter a movie review…</string>
     <string name="action_predict">Predict</string>
     <string name="label_confidence">Confidence:</string>
-    <string name="value_positive_confidence">Positive: %.2f</string>
-    <string name="value_negative_confidence">Negative: %.2f</string>
+    <string name="action_clear">Clear</string>
+    <string name="items_value">Items: %d</string>
+    <string name="positive_confidence_value">Positive: %.2f</string>
+    <string name="negative_confidence_value">Negative: %.2f</string>
+
+    <string name="enable_notification_listener">Enable Notification Listener</string>
+    <string name="notification_listener_channel_name">Notification Listener</string>
+    <string name="notification_listener_channel_desc">Notifications describing classified notifications</string>
 </resources>
